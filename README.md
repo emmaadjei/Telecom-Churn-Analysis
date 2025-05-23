@@ -114,11 +114,11 @@ Offer discounts and incentives for long-term contracts to reduce churn from mont
 
 ### Credits
 ##### Team Members
-- [Daniel Cobbinah Afful](linkedin.com/in/cobbinah-afful)
-- [Christabel Ogbemi](linkedin.com/in/christabel-ogbemi)
-- [Deke Essenam Benedicta](linkedin.com/in/eseenamdeke)
-- [Emmanuel Justin Koomson](linkedin.com/in/emmanuelkoomsonj)
-- [Emmanuel Adjei](linkedin.com/in/emma-adjei)
+- [Daniel Cobbinah Afful](https://www.linkedin.com/in/cobbinah-afful)
+- [Christabel Ogbemi](https://www.linkedin.com/in/christabel-ogbemi)
+- [Deke Essenam Benedicta](https://www.linkedin.com/in/eseenamdeke)
+- [Emmanuel Justin Koomson](https://www.linkedin.com/in/emmanuelkoomsonj)
+- [Emmanuel Adjei](https://www.linkedin.com/in/emma-adjei)
 
 ### References
 - Data Analysis with Power BI on DataCamp
